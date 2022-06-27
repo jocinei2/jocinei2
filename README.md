@@ -1,6 +1,9 @@
 ### Hi there 👋
+- ola eu me chamo jocinei;
+- atualmente estudo em cecmpr
+- atualmente estou aprendendo programacao de scratch e javascript 
+- feicebook jocinei rodrigues 
 
-<!--
 **jocinei2/jocinei2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
